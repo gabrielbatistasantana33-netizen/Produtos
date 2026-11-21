@@ -115,6 +115,10 @@ body {
   text-decoration: none;
 }
 
+#op4 a {
+   color: inherit;
+   text-decoration: none;
+
 #db {
   position: static;
   height: 100%;
